@@ -1,0 +1,1 @@
+<?php $filesInfo = array("/local/templates/exam1/components/bitrix/news.list/carusel/style.css" => "1564471349150",); ?>

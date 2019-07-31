@@ -1,0 +1,1 @@
+<?php $filesInfo = array("/local/templates/exam1/js/jquery.min.js" => "149503011295957",); ?>

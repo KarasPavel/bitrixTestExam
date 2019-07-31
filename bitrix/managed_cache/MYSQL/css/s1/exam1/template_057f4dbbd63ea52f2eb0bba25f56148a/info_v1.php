@@ -1,0 +1,1 @@
+<?php $filesInfo = array("/local/templates/exam1/css/reset.css" => "14950300742466",); ?>

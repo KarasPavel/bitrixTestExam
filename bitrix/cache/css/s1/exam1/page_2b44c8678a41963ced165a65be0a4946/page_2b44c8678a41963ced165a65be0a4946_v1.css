@@ -1,0 +1,12 @@
+
+
+/* Start:/local/templates/exam1/components/bitrix/menu/bottom/style.min.css?1564484434490*/
+ul.left-menu{list-style:none;margin:0;padding:0;margin-bottom:8px;position:relative}ul.left-menu li{padding:10px 16px;background:#f5f5f5 url(/local/templates/exam1/components/bitrix/menu/bottom/images/left_menu_bg.gif) top repeat-x}ul.left-menu li a{font-size:100%;color:#bc262c;font-weight:bold;text-decoration:none}ul.left-menu li a:visited{color:#bc262c}ul.left-menu li a:hover{color:#bc262c}ul.left-menu li a.selected:link,ul.left-menu li a.selected:visited,ul.left-menu li a.selected:active,ul.left-menu li a.selected:hover{color:#fc8d3d}
+/* End */
+
+
+/* Start:/bitrix/components/bitrix/catalog.socnets.buttons/templates/.default/style.min.css?1564390928143*/
+.catalog-sb-item{display:inline-block}.catalog-sb-item+.vk a{-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box}
+/* End */
+/* /local/templates/exam1/components/bitrix/menu/bottom/style.min.css?1564484434490 */
+/* /bitrix/components/bitrix/catalog.socnets.buttons/templates/.default/style.min.css?1564390928143 */

@@ -1,0 +1,1 @@
+<?php $filesInfo = array("/bitrix/components/bitrix/main.register/templates/.default/style.css" => "1564390919442",); ?>

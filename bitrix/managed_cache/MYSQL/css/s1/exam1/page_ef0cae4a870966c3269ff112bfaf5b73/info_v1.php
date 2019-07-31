@@ -1,0 +1,1 @@
+<?php $filesInfo = array("/bitrix/components/bitrix/menu/templates/blue_tabs/style.css" => "1564390919778",); ?>
